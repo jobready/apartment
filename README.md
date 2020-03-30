@@ -1,3 +1,5 @@
+_This forked gem is no longer required. March 2020. #codegraveyard_
+
 # Apartment
 [![Code Climate](https://codeclimate.com/github/influitive/apartment.png)](https://codeclimate.com/github/influitive/apartment)
 [![Build Status](https://secure.travis-ci.org/influitive/apartment.png?branch=development)](http://travis-ci.org/influitive/apartment)
